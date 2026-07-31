@@ -51,7 +51,7 @@ This Power BI dashboard analyzes Blinkit's sales performance using interactive v
 
 ## 📸 Dashboard Preview
 
-> Upload your dashboard screenshot as **dashboard.png** and uncomment the line below.
+> Upload your dashboard screenshot as **![Blinkit Dashboard](dashboard.png.png)** and uncomment the line below.
 
 ```markdown
 ![Dashboard](dashboard.png)
